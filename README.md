@@ -1,5 +1,5 @@
-💫 Hi 👋, I'm Karan Sahu
-**A passionate Machine Learning Engineer || AI Engineer || Admin from India**
+# 💫 Hi 👋, I'm Karan Sahu
+*A passionate Machine Learning Engineer || AI Engineer || Admin from India*
 
 Email Me 👉 ✉️ **sahukaran298@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 

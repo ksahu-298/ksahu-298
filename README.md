@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Karan Sahu
 *A passionate Machine Learning Engineer || AI Engineer || Admin from India*
 
-Email Me 👉 ✉️ **sahukaran298@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **karansahu.engineer@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** AI Chatbot for Mental Health Support
 - 🌱 **I’m currently learning:** Machine Learning Librabries || Natural Language Processing || Deep Learning || Data Structures & Algorithms
@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **sahukaran298@gmail.com** For Collaboration/Project or Any
 - 😄 **Pronouns:** He \ him
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/404karanfound) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-sahu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahukaran298@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/404karanfound) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-sahu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karansahu.engineer@gmail.com) 
 
 <!-- Snake Game Repo View -->
 

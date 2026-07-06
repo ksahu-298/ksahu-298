@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **karansahu.engineer@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** AI Chatbot for Mental Health Support
+- 🔭 **I’m currently working on:** Learning new skills - RAG Models, AI Agents & AGentic AI etc
 - 🌱 **I’m currently learning:** Machine Learning Librabries || Natural Language Processing || Deep Learning || Data Structures & Algorithms
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sahukaran298@gmail.com

@@ -1,41 +1,71 @@
-# 💫 Hi 👋, I'm Karan Sahu
-*A passionate Machine Learning Engineer || AI Engineer || Admin from India*
+<h1 align="center">Hi, I'm Karan 👋</h1>
+<h3 align="center">AI/ML Engineer (Fresher) | B.Tech in AI & ML, AKTU</h3>
 
-Email Me 👉 ✉️ **karansahu.engineer@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+  Building with Python, RAG pipelines, and Flask backends — while prepping for GATE 2027.
+</p>
 
-- 🔭 **I’m currently working on:** Learning new skills - RAG Models, AI Agents & AGentic AI etc
-- 🌱 **I’m currently learning:** Machine Learning Librabries || Natural Language Processing || Deep Learning || Data Structures & Algorithms
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** sahukaran298@gmail.com or karansahu.engineer@gmail.com
-- 😄 **Pronouns:** He \ him
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/404karanfound) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-sahu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karansahu.engineer@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ksahu-298&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ksahu-298&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ksahu-298&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ksahu-298&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ksahu-298&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  📍 Kanpur, India &nbsp;|&nbsp; 🎯 Targeting AI/ML & Backend Engineering roles
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ksahu-298&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-_
+### 🧠 What I'm working on
+
+- 🔭 **Sage** — an AI-powered mental health support chatbot with mood tracking, daily journaling, Google OAuth, and JWT-secured Flask backend
+- 🤖 A **RAG pipeline** built with OpenAI embeddings + ChromaDB — retrieval-augmented generation from scratch, in under 50 lines
+- 📚 Working through **100 Days of Machine Learning** (CampusX) alongside GATE CS/IT prep
+- 🧮 Daily DSA practice via **GFG 160 Days** challenge
+
+### 🛠️ Tech I actually use
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧠 **[Sage](#)** | AI mental health chatbot — mood tracking, journaling, Google OAuth | Flask · SQLite · JWT |
+| 🔍 **[RAG Pipeline](#)** | Retrieval-augmented generation with vector search | Python · OpenAI · ChromaDB |
+| 🐍 **[100 Days of Python](#)** | Daily Python practice — scripting to automation | Python |
+| 📊 **[Small Projects](#)** | EDA & ML notebooks — exploratory analysis to modeling | Pandas · scikit-learn |
+| 🧮 **[GFG 160 Days](#)** | Structured DSA practice for placement prep | C++ / Python |
+
+*(Replace the `#` links above with your actual repo URLs)*
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ksahu-298&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ksahu-298&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksahu-298&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🎯 Currently
+
+- Preparing for **GATE 2027** (CS/IT) — targeting AIR < 200
+- Filling gaps in math foundations, hyperparameter tuning, and model deployment
+- Open to **AI/ML Engineer** and **Backend Python Developer** roles
+
+### 📫 Reach me
+
+<p align="left">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Ask me about: RAG pipelines, Flask backends, or GATE 2027 prep 🚀</i></p>

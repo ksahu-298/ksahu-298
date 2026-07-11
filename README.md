@@ -1,146 +1,46 @@
 <div align="center">
+  
+<!-- Animated Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D65D0E,98971A&height=200&section=header&text=Karan%20Sahu&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Problem%20Solver%20%7C%20GATE%20Aspirant&descAlignY=60&descAlign=50" width="100%"/>
 
+<br/>
+
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=D65D0E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Karan+%F0%9F%91%8B;AI%2FML+Engineer+%7C+B.Tech+AI+%26+ML;Building+RAG+pipelines+with+Python+%F0%9F%94%8D;Prepping+for+GATE+2027+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=D65D0E&center=true&vCenter=true&width=700&lines=Building+the+future+with+AI+%F0%9F%94%AE;RAG+%7C+LLMs+%7C+Backend+%F0%9F%9A%80;Prepping+for+GATE+2027+%F0%9F%93%9A;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<img src="https://img.shields.io/badge/📍_Location-Kanpur,_India-D65D0E?style=flat-square&logo=google-maps&logoColor=white" />
-<img src="https://img.shields.io/badge/🎯_Target-AI%2FML_%26_Backend-98971A?style=flat-square&logo=target&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=ksahu-298&style=flat-square&color=d79921&label=👁️+Profile+Views" />
+<!-- Profile Badges -->
+<img src="https://img.shields.io/badge/📍_Kanpur,_India-D65D0E?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/🎯_AI%2FML_%26_Backend-98971A?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=ksahu-298&style=for-the-badge&color=D65D0E&label=👁️+PROFILE+VIEWS" />
 <a href="https://github.com/ksahu-298?tab=followers">
-  <img src="https://img.shields.io/github/followers/ksahu-298?style=flat-square&color=D65D0E&label=⭐+Followers" />
+  <img src="https://img.shields.io/github/followers/ksahu-298?style=for-the-badge&color=D65D0E&label=⭐+FOLLOWERS" />
 </a>
 
-<br/>
+<br/><br/>
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ---
 
-## 🚀 **Current Projects**
+## 🌟 **About Me**
 
-### 🧘 Sage
-> AI-powered mental health chatbot with mood tracking, daily journaling, Google OAuth & JWT-secured Flask backend.
-
-![Flask](https://img.shields.io/badge/Flask-3C3836?style=flat-square&logo=flask&logoColor=D79921)
-![SQLite](https://img.shields.io/badge/SQLite-458588?style=flat-square&logo=sqlite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-98971A?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-D65D0E?style=flat-square&logo=oauth&logoColor=white)
-
----
-
-### 🔍 RAG Pipeline
-> Retrieval-augmented generation from scratch — under 50 lines, with real-world failure-mode handling.
-
-![Python](https://img.shields.io/badge/Python-3C3836?style=flat-square&logo=python&logoColor=D65D0E)
-![OpenAI](https://img.shields.io/badge/OpenAI-98971A?style=flat-square&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-458588?style=flat-square&logo=chroma&logoColor=white)
-
----
-
-### 🐍 100 Days of Python
-> Daily practice repo — scripting, automation, and core language fluency.
-
-![Python](https://img.shields.io/badge/Python-3C3836?style=flat-square&logo=python&logoColor=D65D0E)
-![Automation](https://img.shields.io/badge/Automation-98971A?style=flat-square&logo=github-actions&logoColor=white)
-
----
-
-### 🧮 GFG 160 Days
-> Structured, daily DSA grind — placement & GATE prep.
-
-![DSA](https://img.shields.io/badge/DSA-3C3836?style=flat-square&logo=leetcode&logoColor=D65D0E)
-![C++](https://img.shields.io/badge/C%2B%2B-458588?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-98971A?style=flat-square&logo=python&logoColor=white)
-
----
-
-## ⚙️ **Tech Stack**
-
-<div align="center">
-
-### 💻 **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3C3836?style=for-the-badge&logo=python&logoColor=D65D0E)
-![Flask](https://img.shields.io/badge/Flask-3C3836?style=for-the-badge&logo=flask&logoColor=D79921)
-![FastAPI](https://img.shields.io/badge/FastAPI-98971A?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-458588?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-D65D0E?style=for-the-badge&logo=streamlit&logoColor=white)
-
-<br/>
-
-### 🤖 **AI/ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-D65D0E?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-458588?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-458588?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-3C3836?style=for-the-badge&logo=pandas&logoColor=D79921)
-![NumPy](https://img.shields.io/badge/NumPy-458588?style=for-the-badge&logo=numpy&logoColor=white)
-
-<br/>
-
-### 🗄️ **Databases & DevOps**
-![MySQL](https://img.shields.io/badge/MySQL-98971A?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-458588?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-98971A?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-D65D0E?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-D65D0E?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
-### 🛠️ **Tools**
-![VS Code](https://img.shields.io/badge/VS_Code-3C3836?style=for-the-badge&logo=visualstudiocode&logoColor=D65D0E)
-![Jupyter](https://img.shields.io/badge/Jupyter-98971A?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-458588?style=for-the-badge&logo=anaconda&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-D65D0E?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ksahu-298&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=gruvbox_light&hide_border=true)
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ksahu-298&background=FBF1C7&ring=D65D0E&fire=D79921&currStreakLabel=D65D0E&sideLabels=3C3836&currStreakNum=3C3836&sideNums=3C3836&dates=7C6F64&border=BDAE93&hide_border=true)
-
-<br/>
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ksahu-298&layout=compact&theme=gruvbox_light&hide_border=true)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ksahu-298&bg_color=FBF1C7&color=3C3836&line=D65D0E&point=D79921&area=true&area_color=D65D0E&hide_border=true)
-
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ksahu-298&theme=gruvbox&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 🎯 **Current Focus**
-
-```yaml
-📚 Studying: "GATE 2027 (CS/IT) — targeting AIR < 200"
-🧠 Learning: ["Hyperparameter tuning", "Model deployment", "Math foundations"]
-💼 Open to: ["AI/ML Engineer", "Backend Python Developer"]
-💬 Ask me about: ["RAG pipelines", "Flask backends", "GATE prep"]
-🎮 Hobbies: ["Chess", "Coding challenges", "Open source"]
+```python
+class KaranSahu:
+    def __init__(self):
+        self.name = "Karan Sahu"
+        self.location = "Kanpur, India"
+        self.education = "B.Tech AI & ML, AKTU"
+        self.role = "AI/ML Engineer & Backend Developer"
+        self.goal = "GATE 2027 - AIR < 200"
+        self.interests = ["RAG Pipelines", "LLMs", "System Design"]
+        self.hobbies = ["Chess ♟️", "Open Source 🌐", "Tech Blogging ✍️"]
+    
+    def say_hi(self):
+        return "Building intelligent systems, one commit at a time! 🚀"

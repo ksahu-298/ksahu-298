@@ -98,7 +98,7 @@ Structured, daily DSA grind for placement & GATE prep.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ksahu-298&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+[![trophy](https://github-profile-trophy.vercel.app/?ksahu-298=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <br/>

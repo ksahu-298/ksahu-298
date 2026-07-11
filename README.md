@@ -1,138 +1,122 @@
-
-# <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Karan%20Sahu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Backend+Python+Developer;Building+Intelligent+Applications;FastAPI+%7C+Flask+%7C+Machine+Learning;Learning+LLMs+%26+RAG;Preparing+for+GATE+2027;Always+Learning+Something+New+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D65D0E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Karan+%F0%9F%91%8B;AI%2FML+Engineer+%7C+B.Tech+AI+%26+ML%2C+AKTU;Building+RAG+pipelines+with+Python+%F0%9F%94%8D;Prepping+for+GATE+2027+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
-<p>
-<a href="mailto:karansahu.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/k-sahu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1U7I91pVMTebf0cy1etgCK79TKcBW0Zss/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
-</p>
+<br/><br/>
 
-![](https://komarev.com/ghpvc/?username=ksahu-298&style=for-the-badge&color=0e75b6)
+<img src="https://img.shields.io/badge/📍_Location-Kanpur,_India-D65D0E?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/🎯_Target-AI%2FML_%26_Backend_Roles-98971A?style=flat-square&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=ksahu-298&style=flat-square&color=d79921&label=Profile+Views" />
 
 </div>
 
----
+<br/>
 
-# 👨‍💻 About Me
+## 🧠 What I'm Building
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🎓 B.Tech (AI & ML)
-- 🤖 Passionate about AI, ML, LLMs & RAG
-- 🐍 Backend Development using Flask & FastAPI
-- 📚 Preparing for **GATE 2027 (Target AIR <200)**
-- 🌱 Currently mastering MLOps, Deployment & Hyperparameter Tuning
-- 💼 Open to AI/ML & Python Backend roles
-- 📍 Kanpur, India
+**🧘 Sage**
+AI-powered mental health chatbot with mood tracking, daily journaling, Google OAuth & JWT-secured Flask backend.
 
----
+`Flask` `SQLite` `JWT` `OAuth`
 
-# 🛠 Tech Stack
+</td>
+<td width="50%" valign="top">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**🔍 RAG Pipeline**
+Retrieval-augmented generation from scratch — under 50 lines, real-world failure-mode handling.
 
-### AI / ML
-PyTorch • scikit-learn • Pandas • NumPy • OpenCV • Transformers • ChromaDB
+`Python` `OpenAI` `ChromaDB`
 
-### Backend
-Flask • FastAPI • REST APIs • JWT • OAuth • SQLite • MySQL
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Tools
-Git • GitHub • VS Code • Postman • Linux
+**🐍 100 Days of Python**
+Daily practice repo — scripting, automation, and core language fluency.
 
----
+`Python`
 
-# 🚀 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-| Project | Description |
-|---|---|
-| 🧘 Sage | AI mental health chatbot with authentication, journaling and mood tracking. |
-| 🔍 RAG Pipeline | Lightweight Retrieval-Augmented Generation pipeline with ChromaDB. |
-| 🐍 100 Days of Python | Daily Python practice & automation repository. |
-| 🧠 GFG160 / DSA | Structured DSA preparation for placements & GATE. |
+**🧮 GFG 160 Days**
+Structured, daily DSA grind for placement & GATE prep.
 
----
+`DSA` `C++` `Python`
 
-# 📊 GitHub Analytics
+</td>
+</tr>
+</table>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ksahu-298&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ksahu-298&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksahu-298&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## ⚙️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3C3836?style=for-the-badge&logo=python&logoColor=D65D0E)
+![Flask](https://img.shields.io/badge/Flask-3C3836?style=for-the-badge&logo=flask&logoColor=D79921)
+![FastAPI](https://img.shields.io/badge/FastAPI-98971A?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-D65D0E?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-458588?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3C3836?style=for-the-badge&logo=pandas&logoColor=D79921)
+![NumPy](https://img.shields.io/badge/NumPy-458588?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-98971A?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D65D0E?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=ksahu-298&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=gruvbox_light" height="195"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ksahu-298&background=FBF1C7&ring=D65D0E&fire=D79921&currStreakLabel=D65D0E&sideLabels=3C3836&currStreakNum=3C3836&sideNums=3C3836&dates=7C6F64&border=BDAE93" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ksahu-298&layout=compact&theme=gruvbox_light" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ksahu-298&bg_color=FBF1C7&color=3C3836&line=D65D0E&point=D79921&area=true&area_color=D65D0E&hide_border=true" width="95%"/>
+</div>
+
+<br/>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ksahu-298&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=ksahu-298&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
 
----
+<br/>
 
-# 🐍 Contribution Snake
-
-```text
-Enable the GitHub Action from:
-Platane/snk
-or
-yoshi389111/github-profile-3d-contrib
-```
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Backend with FastAPI
-- ✅ Complete Machine Learning
-- ⏳ Deep Learning
-- ⏳ NLP
-- ⏳ RAG
-- ⏳ AI Agents
-- ⏳ Deploy 5 AI Projects
-- ⏳ Crack GATE 2027
-- ⏳ Land AI/ML Engineer Role
-
----
-
-# 📚 Currently Learning
+## 🎯 Currently
 
 ```yaml
-Backend:
-  - FastAPI
-  - Authentication
-  - REST APIs
-
-Machine Learning:
-  - Hyperparameter Tuning
-  - Model Deployment
-  - Ensemble Methods
-
-Next:
-  - LangChain
-  - AI Agents
+studying: "GATE 2027 (CS/IT) — targeting AIR < 200"
+learning: ["Hyperparameter tuning", "Model deployment", "Math foundations"]
+open_to: ["AI/ML Engineer", "Backend Python Developer"]
+ask_me_about: ["RAG pipelines", "Flask backends", "GATE prep"]
 ```
 
----
+<br/>
 
-# 📫 Connect
+## 📫 Connect
 
-<p align="center">
-<a href="mailto:karansahu.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/k-sahu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1U7I91pVMTebf0cy1etgCK79TKcBW0Zss/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
+<div align="center">
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D65D0E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-458588?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>

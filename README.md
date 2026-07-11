@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- Animated Header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=D65D0E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Karan+%F0%9F%91%8B;AI%2FML+Engineer+%7C+B.Tech+AI+%26+ML;Building+RAG+pipelines+with+Python+%F0%9F%94%8D;Prepping+for+GATE+2027+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- Profile Badges -->
 <img src="https://img.shields.io/badge/📍_Location-Kanpur,_India-D65D0E?style=flat-square&logo=google-maps&logoColor=white" />
 <img src="https://img.shields.io/badge/🎯_Target-AI%2FML_%26_Backend-98971A?style=flat-square&logo=target&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=ksahu-298&style=flat-square&color=d79921&label=👁️+Profile+Views" />
@@ -22,7 +19,6 @@
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
@@ -100,28 +96,34 @@
 
 <div align="center">
 
-<!-- Row 1 -->
+### 🖥️ **Languages & Frameworks**
 <img src="https://img.shields.io/badge/Python-3C3836?style=for-the-badge&logo=python&logoColor=D65D0E" />
 <img src="https://img.shields.io/badge/Flask-3C3836?style=for-the-badge&logo=flask&logoColor=D79921" />
 <img src="https://img.shields.io/badge/FastAPI-98971A?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-458588?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-D65D0E?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-<!-- Row 2 -->
+<br/>
+
+### 🤖 **AI/ML**
 <img src="https://img.shields.io/badge/PyTorch-D65D0E?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-458588?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-458588?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-3C3836?style=for-the-badge&logo=pandas&logoColor=D79921" />
 <img src="https://img.shields.io/badge/NumPy-458588?style=for-the-badge&logo=numpy&logoColor=white" />
 
-<!-- Row 3 -->
+<br/>
+
+### 🗄️ **Databases & DevOps**
 <img src="https://img.shields.io/badge/MySQL-98971A?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-458588?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-98971A?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-D65D0E?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-D65D0E?style=for-the-badge&logo=git&logoColor=white" />
 
-<!-- Row 4 -->
+<br/>
+
+### 🛠️ **Tools**
 <img src="https://img.shields.io/badge/VS_Code-3C3836?style=for-the-badge&logo=visualstudiocode&logoColor=D65D0E" />
 <img src="https://img.shields.io/badge/Jupyter-98971A?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Anaconda-458588?style=for-the-badge&logo=anaconda&logoColor=white" />
@@ -135,17 +137,29 @@
 
 <div align="center">
 
-<!-- Stats Card -->
 <img src="https://github-stats-extended.vercel.app/api?username=ksahu-298&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=gruvbox_light&hide_border=true" height="195" />
 
-<!-- Streak Stats -->
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=ksahu-298&background=FBF1C7&ring=D65D0E&fire=D79921&currStreakLabel=D65D0E&sideLabels=3C3836&currStreakNum=3C3836&sideNums=3C3836&dates=7C6F64&border=BDAE93&hide_border=true" height="165" />
 
-<!-- Top Languages -->
+<br/><br/>
+
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ksahu-298&layout=compact&theme=gruvbox_light&hide_border=true" />
 
-<!-- Activity Graph -->
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksahu-298&bg_color=FBF1C7&color=3C3836&line=D65D0E&point=D79921&area=true&area_color=D65D0E&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ksahu-298&theme=gruvbox&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 
 </div>
 

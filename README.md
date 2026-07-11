@@ -82,7 +82,7 @@ Structured, daily DSA grind for placement & GATE prep.
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ksahu-298&background=FBF1C7&ring=D65D0E&fire=D79921&currStreakLabel=D65D0E&sideLabels=3C3836&currStreakNum=3C3836&sideNums=3C3836&dates=7C6F64&border=BDAE93" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=ksahu-298&background=FBF1C7&ring=D65D0E&fire=D79921&currStreakLabel=D65D0E&sideLabels=3C3836&currStreakNum=3C3836&sideNums=3C3836&dates=7C6F64&border=BDAE93" height="165"/>
 </div>
 
 <div align="center">

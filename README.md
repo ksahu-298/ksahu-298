@@ -111,8 +111,9 @@ ask_me_about: ["RAG pipelines", "Flask backends", "GATE prep"]
 ## 📫 Connect
 
 <div align="center">
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-karansahu.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sahukaran298@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/k-sahu"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <br/>
